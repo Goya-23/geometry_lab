@@ -1,2 +1,2 @@
 # geometry_lab
-some explorative attempt about geometry
+some explorative attempts about geometry
